@@ -1,0 +1,12 @@
+{
+  "name": "eosio-signing-request-demo",
+  "version": "1.0.0",
+  "description": "An example showing how eosio-signing-request operates",
+  "main": "index.js",
+  "author": "Greymass Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "eosio-signing-request": "^1.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}
