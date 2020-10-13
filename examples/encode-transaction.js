@@ -39,7 +39,7 @@ const opts = {
 function usage() {
     console.log(`
     Create URI from the command line 
-    node enocde-transaction <actor> <permission>
+    node encode-transaction <actor> <permission>
     ex: node encode-transaction.js eosio active
     `);
 }
