@@ -45,7 +45,7 @@ function usage() {
 }
 
 async function main() {
-    if(process.argv.length !== 4) {
+    if (process.argv.length !== 4) {
         usage()
         return;
     }
